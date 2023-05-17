@@ -6,21 +6,27 @@ Recently graduated from Concordia's web developement bootcamp!
 Here you can see my final Project ###SoccerApp
 
 
-## Languages and Databases 
-![My GitHub stats](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![My GitHub stats](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![My GitHub stats](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![My GitHub stats](https://img.shields.io/badge/-MongoDb-brightgreen?style=for-the-badge&logo=appveyor)
+- Languages:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
-## 🚀Frameworks Known 
-![My GitHub stats](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![My GitHub stats](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![My GitHub stats](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## IDE's Known
-![My GitHub stats](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- Frontend:
+  ![React](https://img.shields.io/badge/-React-000?&logo=react)
+  ![HTML 5](https://img.shields.io/badge/-HTML%205-000?&logo=html5)
+  ![CSS 3](https://img.shields.io/badge/-CSS%203-000?&logo=css3)
+  ![Styled-components](https://img.shields.io/badge/-Styled%20components-000?&logo=styled-components)
+
+- Backend:
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+
+
+- Tools:
+  ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=insomnia)
+  ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 
 ## Currently learning
-![My GitHub stats](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![My GitHub stats](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![My GitHub stats](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
