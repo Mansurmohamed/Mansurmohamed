@@ -1,6 +1,7 @@
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
 
-### I'm Mansuer, Welcome to my github!
+### I'm Mansuer, Welcome to my code arsenal!
+(PS I'm learning as I go, but I'm certainly not afraid to learn on the job *wink wink)
 
 Recently graduated from Concordia's web developement bootcamp!
 Here you can see my final Project ###SoccerApp
