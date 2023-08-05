@@ -3,7 +3,7 @@
 ### I'm Mansuer, Welcome to my code arsenal!
 (PS I'm learning as I go, but I'm certainly not afraid to learn on the job 😉)
 
-Fine soldier from the Concordia Bootcamp division
+Veteran from the Concordia Bootcamp division
 
 
 - Languages:
