@@ -3,8 +3,7 @@
 ### I'm Mansuer, Welcome to my code arsenal!
 (PS I'm learning as I go, but I'm certainly not afraid to learn on the job 😉)
 
-Recently graduated from Concordia's web developement bootcamp!
-Here you can see my final Project ###SoccerApp
+Fine soldier from the Concordia Bootcamp division
 
 
 - Languages:
