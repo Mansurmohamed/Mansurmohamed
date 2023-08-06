@@ -5,6 +5,8 @@
 
 Veteran from the Concordia Bootcamp division
 
+<h1>My mantra</h1>
+
 
 - Languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
