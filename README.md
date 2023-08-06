@@ -28,5 +28,5 @@ Veteran from the Concordia Bootcamp division
   ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 
 ## Currently learning
-![My GitHub stats](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Amazon AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
 
