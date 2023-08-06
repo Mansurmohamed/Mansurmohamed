@@ -7,6 +7,9 @@ Veteran from the Concordia Bootcamp division
 
 <h1>My mantra</h1>
 
+![ezgif com-gif-maker](https://github.com/Mansurmohamed/Mansurmohamed/assets/77082103/35f1e78f-f7b3-4ef7-a26c-aaed091da80c)
+
+
 
 - Languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
