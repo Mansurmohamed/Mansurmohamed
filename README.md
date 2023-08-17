@@ -1,7 +1,7 @@
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
 
 ### I'm Mansuer, Welcome to my code arsenal!
-(PS I'm learning as I go, but I'm certainly not afraid to learn on the job 😉)
+(P.S. Buckle up, I'm mastering the art of on-the-fly learning – no fear, just pure fabulousness! 😉)
 
 Veteran from the Concordia Bootcamp division
 
