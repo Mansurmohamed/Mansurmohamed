@@ -3,7 +3,7 @@
 ### I'm Mansuer, Welcome to my code arsenal!
 (P.S. Buckle up, I'm mastering the art of on-the-fly learning – no fear, just pure fabulousness! 😉)
 
-Veteran from the Concordia Bootcamp division
+Concordia Bootcamp's battle-hardened, wisdom-infused veteran, reporting for duty! 🎓💥
 
 <h1>My mantra</h1>
 
